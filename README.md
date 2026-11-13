@@ -9,11 +9,11 @@ Aquí encontrarás las instrucciones necesarias para colaborar en nuestros proye
 
 Consulta nuestra guía interactiva:
 
-👉 [Abrir documentación](https://TU-USUARIO.github.io/documentacion-colaboradores/)
+👉 [Abrir documentación](https://sergioplay031.github.io/GUIA_COLABORADORES_GIT_GITHUB/)
 
 ## 📖 Guías disponibles
 
-- [Guía completa de Git y GitHub](GUIA_COLABORADORES.md)
+- [Guía completa de Git y GitHub](GUIA_COLABORADORES_GIT_GITHUB.md)
 
 ## 🔧 ¿Qué aprenderás?
 
